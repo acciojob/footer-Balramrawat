@@ -18,18 +18,23 @@
 	padding-right:30px;
 	font-size:1.7rem;
 }
+
+.media-icons img{
+	height:40px;
+	padding:5px;
+	margin-top:10px;
+}
 .top .media-icons i{
 	padding:5px;
 }
 
-
-        .link-boxes {
-            background-color: black;
-            color: white;
-            padding: 20px;
-            display: flex;
-            justify-content: space-between;
-        }
+ .link-boxes {
+	    background-color: black;
+	    color: white;
+	    padding: 20px;
+	    display: flex;
+	    justify-content: space-between;
+}
         .footer-section {
             margin: 10px;
         }
@@ -42,7 +47,7 @@
         .footer-section ul li a {
             color: white;
             text-decoration: none;
-            display: block;
+            display: flex;
             margin: 5px 0;
         }
 .bottom-details{
