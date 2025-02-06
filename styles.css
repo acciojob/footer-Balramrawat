@@ -4,6 +4,25 @@
             padding: 0;
             box-sizing: border-box;
         }
+
+.top {
+	height:50px;
+	width:100%;
+	background-color:black;
+	color:white;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	justify-content:space-between;
+	padding-left:30px;
+	padding-right:30px;
+	font-size:1.7rem;
+}
+.top .media-icons i{
+	padding:5px;
+}
+
+
         .link-boxes {
             background-color: black;
             color: white;
